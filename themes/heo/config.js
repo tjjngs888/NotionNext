@@ -37,7 +37,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  INFO_CARD_URL: 'https://aiyonghu.com', // 个人资料底部按钮链接
 
   // 用户技能图标
   GROUP_ICONS: [
@@ -103,7 +103,7 @@ const CONFIG = {
   SOCIAL_CARD_TITLE_1: '交流频道',
   SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   SOCIAL_CARD_TITLE_3: '点击加入社群',
-  SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  SOCIAL_CARD_URL: 'https://aiyonghu.com',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
