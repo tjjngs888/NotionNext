@@ -5,9 +5,10 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
-  ],
+    { title: '本站域名非常好记，看一遍都能记住哈！', url: 'https://aiyonghu.com' },
+    { title: '本域名是 AI+yonghu（用户全拼）--aiyonghu.com', url: 'https://aiyonghu.com' }
+    { title: 'AI时代已经到来，不久我们都将是AI的用户', url: 'https://aiyonghu.com' } 
+],
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '分享编程',
