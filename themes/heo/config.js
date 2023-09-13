@@ -5,9 +5,9 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title:'本站域名非常好记，看了都能记住哈！AI+yonghu', url:'https://aiyonghu.com' },
-    { title:'是 AI用户全拼，我们都是会用AI的人', url:'https://aiyonghu.com' },
-    { title:'AI时代已经到来，不久我们都将是AI的用户', url:'https://aiyonghu.com' } 
+    { title:'本站域名非常好记，看了都能记住哈！      AI+yonghu  组合', url:'https://aiyonghu.com' },
+    { title:'AI+用户，我们都是AI的使用者', url:'https://aiyonghu.com' },
+    { title:'不久我们都将是AI的忠实用户', url:'https://aiyonghu.com' } 
   ],
 
   // 英雄区(首页顶部大卡)
