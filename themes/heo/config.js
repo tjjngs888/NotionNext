@@ -11,8 +11,8 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享编程',
-  HERO_TITLE_2: '与思维认知',
+  HERO_TITLE_1: 'AI用户之家',
+  HERO_TITLE_2: '工具包罗万象',
   HERO_TITLE_3: 'aiyonghu.com',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: '未来我们都将是会用AI的人',
@@ -29,7 +29,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
-    '你好！我是',
+    '你好！点击我！我是',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
