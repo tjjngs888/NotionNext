@@ -15,7 +15,7 @@ const CONFIG = {
   HERO_TITLE_2: 'AI用户',
   HERO_TITLE_3: 'aiyonghu.com',
   HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: '未来我们都将是会用AI的人',
+  HERO_TITLE_5: '我们是会用AI的人',
   HERO_TITLE_LINK: 'https://aiyonghu.com',
 
   // 英雄区显示三个置顶分类
