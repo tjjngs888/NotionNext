@@ -51,7 +51,7 @@ const Style = () => {
 
       // 标签滚动动画
       .tags-group-wrapper {
-        animation: rowup 10s linear infinite;
+        animation: rowup 1s linear infinite;
       }
 
       @keyframes rowup {
