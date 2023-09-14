@@ -12,7 +12,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: 'aiyonghu.com',
-  HERO_TITLE_2: 'AI用户之家',
+  HERO_TITLE_2: 'AI用户',
   HERO_TITLE_3: 'aiyonghu.com',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: '未来我们都将是会用AI的人',
